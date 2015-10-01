@@ -4,7 +4,8 @@ Prerequisites
 1. Python 2.7.6
 2. OpenCv
 
-Usage 
+Usage-  
+
 python meanshift.py sp sr option
 
 where 
